@@ -16,9 +16,8 @@ I am an aspiring Data Analyst developing skills in data cleaning, analysis, visu
 - **Data Visualization:** Tableau, charts, dashboards
 - **Data Analysis:** Data cleaning, organization, analysis, and presentation
 
-- ## 📊 Projects
+ ## 📊 Projects
 
-### Google Data Analytics Capstone Project
 ### [Cyclistic Bike-Share Analysis](google-data-analytics-capstone)
 
 **Status:** Completed
