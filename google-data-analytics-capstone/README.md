@@ -33,6 +33,23 @@ The analysis compares only the first quarter of 2019 with the first quarter of 2
 
 ## 🧹 Process
 
+### Tools
+
+Python and Pandas were used to clean, standardize, combine, and analyze the datasets.
+
+### Cleaning Process
+
+- Renamed the 2019 columns to match the 2020 structure.
+- Changed `Subscriber` to `member` and `Customer` to `casual`.
+- Converted start and end times to datetime format.
+- Created `ride_length`, `day_of_week`, and `month` columns.
+- Checked for duplicate ride IDs; none were found.
+- Removed records with missing essential information.
+- Removed rides shorter than one minute or longer than 24 hours.
+- Combined both datasets into one dataframe.
+
+After cleaning, 783,803 of the original 791,956 trips remained for analysis.
+
 ## 📈 Analyze
 
 ## 📊 Share
