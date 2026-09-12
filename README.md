@@ -17,7 +17,6 @@ I am an aspiring Data Analyst developing skills in data cleaning, analysis, visu
 - **Data Analysis:** Data cleaning, organization, analysis, and presentation
 
  ## 📊 Projects
-
 ### [Cyclistic Bike-Share Analysis](google-data-analytics-capstone)
 
 **Status:** Completed
