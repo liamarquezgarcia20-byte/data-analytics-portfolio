@@ -67,5 +67,23 @@ After cleaning, 783,803 of the original 791,956 trips remained for analysis.
 Members generally take shorter, more frequent weekday trips that resemble commuting. Casual riders take longer trips and ride more often on weekends and during afternoon leisure hours.
 
 ## 📊 Share
+### Visualizations
+
+![Rides by day](rides_by_day.png)
+
+![Average ride duration](average_ride_duration.png)
+
+![Rides by hour](rides_by_hour.png)
+
+The visualizations show that members ride mainly during weekday commuting hours. Casual riders take longer trips and use the service more frequently on weekends and during the afternoon.
 
 ## ✅ Act
+### Recommendations
+
+1. Promote annual memberships through social media campaigns on weekends and during afternoon hours, when casual riders are most active.
+2. Offer casual riders a limited-time membership trial or discount after completing several long rides.
+3. Create marketing messages that show how an annual membership can provide value for both weekend recreation and regular transportation.
+
+### Conclusion
+
+Casual riders mainly use Cyclistic for longer recreational trips, while members use the service more frequently for shorter weekday trips. Targeted promotions and membership incentives could help convert casual riders into annual members.
