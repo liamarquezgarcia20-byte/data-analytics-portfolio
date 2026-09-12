@@ -17,6 +17,20 @@ Analyze Cyclistic's historical bike-trip data to identify how casual riders and 
 
 ## 📁 Prepare
 
+### Data Source
+
+The analysis uses Divvy trip data from the first quarters of 2019 and 2020. The public datasets were provided by Motivate International Inc. and downloaded from the Divvy Trip Data repository.
+
+- 2019 Q1: 365,069 trips
+- 2020 Q1: 426,887 trips
+- Total: 791,956 trips
+
+The files contain trip dates, stations, ride duration, and rider type. Personal identifying information is not included. The two datasets use different column names and structures, so the columns must be standardized before combining them.
+
+### Limitations
+
+The analysis compares only the first quarter of 2019 with the first quarter of 2020. Therefore, the results do not represent a complete year or all seasonal riding patterns.
+
 ## 🧹 Process
 
 ## 📈 Analyze
