@@ -19,11 +19,13 @@ I am an aspiring Data Analyst developing skills in data cleaning, analysis, visu
 - ## 📊 Projects
 
 ### Google Data Analytics Capstone Project
-**Status:** In Progress
+### [Cyclistic Bike-Share Analysis](google-data-analytics-capstone)
 
-A complete data analysis case study applying the data analysis process to a real-world business problem.
+**Status:** Completed
 
-**Skills:** Data Cleaning • SQL • Spreadsheets • Tableau • Python • Data Visualization
+Analyzed 791,956 bike trips using Python and Pandas to identify differences between casual riders and annual members. Created visualizations and data-driven marketing recommendations.
+
+**Skills:** Python • Pandas • Data Cleaning • Data Analysis • Data Visualization
 
 ## 🏆 Certifications
 
