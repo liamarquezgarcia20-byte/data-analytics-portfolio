@@ -51,6 +51,20 @@ Python and Pandas were used to clean, standardize, combine, and analyze the data
 After cleaning, 783,803 of the original 791,956 trips remained for analysis.
 
 ## 📈 Analyze
+### Key Findings
+
+- Members completed 716,406 rides, representing 91.4% of all cleaned trips.
+- Casual riders completed 67,397 rides, representing 8.6% of trips.
+- Casual rides averaged 38.48 minutes, compared with 11.47 minutes for members.
+- Casual riders took their longest rides on Wednesdays and Sundays.
+- Casual riding was highest on weekends; 47.3% of casual trips occurred on Saturday or Sunday.
+- Member use was concentrated on weekdays, especially Tuesday through Thursday.
+- Member activity peaked around 8:00 AM and 5:00 PM, suggesting commuting behavior.
+- Casual activity peaked between 2:00 PM and 4:00 PM, suggesting leisure use.
+
+### Summary
+
+Members generally take shorter, more frequent weekday trips that resemble commuting. Casual riders take longer trips and ride more often on weekends and during afternoon leisure hours.
 
 ## 📊 Share
 
